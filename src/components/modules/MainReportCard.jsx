@@ -10,5 +10,4 @@ const ReportCard = ({ analyst, title, description, date }) => {
     </div>
   );
 };
-
 export default ReportCard;
